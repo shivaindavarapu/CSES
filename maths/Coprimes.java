@@ -1,3 +1,4 @@
+package maths;
 import java.util.*;
  
 //this code will give tle because of Scanner(slow IO)
