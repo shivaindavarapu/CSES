@@ -1,4 +1,4 @@
-package maths;
+
 import java.util.Scanner;
 
 public class IncreaseNumber {
@@ -16,5 +16,6 @@ public class IncreaseNumber {
             }
         }
         System.out.println(ans);
+        sc.close();
     }
 }
