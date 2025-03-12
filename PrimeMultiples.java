@@ -57,7 +57,6 @@ public class PrimeMultiples {
     public static void main(String[] args) throws IOException {
         FastIO in = new FastIO(System.in);
         PrintWriter pw = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
-
         long n = in.nextLong();
         int k = in.nextInt();
         long[] primes = new long[k];
